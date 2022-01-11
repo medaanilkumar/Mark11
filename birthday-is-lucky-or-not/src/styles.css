@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: purple;
+}
+input:focus {
+  background-color: gray;
+}
+button {
+  border: 1px solid black;
+  border-radius: 3rem;
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+}
+.final {
+  padding-top: 2rem;
+  display: block;
+  font-size: 2rem;
+  color: white;
+  text-transform: uppercase;
+}
